@@ -63,6 +63,10 @@ class DoublyLinkedList {
         return array
     }
 
+    //Kommentar Aufgabe 1.3b
+
+
+
     /**
      * Prints the values of this list to the standard output, one value per line, or "Empty." for an empty list.
      */
